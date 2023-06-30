@@ -43,47 +43,6 @@ Bank GoodCredit wants to predict cred score for current credit card customers. T
 
 *  Note that demographics features are renamed as features and obscured in accordance with privacy policies.
 
-#### Target variable == Status
-* In target veriable 11 labels are present (Junk Lead,Not Responding,CONVERTED,Just Enquiry,Potential,Long Term,In Progress Positive,In Progress Negative,LOST,Open,converted ) 
-* This all labels is tell about the customer lead category [high potential, low potential] 
-
-1.Created:
-* This is unique feature in data tell about activity related to the selling and no of goods sold in certain date as well as time.
-
-2.Product ID:
-* Id of particular product.
-
-3.Source:
-* The source is contain imformation about the customer systematic search like call, live chats, and campaign.
-
-4.Mobile:
-* This is a unique feature contain a Mobile no of customer.
-
-
-5.Email:
-* This also unique feature contain a Email-id of customer.
-
-
-6.Sales Agent:
-* Sales agent is a front line customer service, A person or a company that acts as a sales agent on behalf of the exporting company ( principal ), introducing its products to potential buyers in the external market, in exchange for a commission based on the value of the business deals arranged and paid to the principal.
-
-7.Location:
-* The Location of sale field always has the main business address in it and has to be changed manually. This also means that the sales tax is computed based on the main business address and not the actual location of the sale.
-* This feature contain lots of different location.
-
-8.Delivery mode:
-* Modes of Delivery of goods Delivery of goods may be made in any of the following three ways: 
-1. Actual Delivery: Also known as physical delivery, actual delivery takes place when the goods are physically handed over by the seller or his/her authorized agent to the buyer or his/her agent authorized to take possession of the goods.
-
-2. Symbolic Delivery: Where the goods are bulky and heavy and it is not possible to physically hand them over to the buyer, delivery thereof may be made by indicating or giving a symbol. Here the goods itself are not delivered, but the means of obtaining possession of goods is delivered.
-
-3. Constructive Delivery: In this case neither physical nor symbolic delivery is made. In constructive delivery the individual possessing the products recognizes that he holds the merchandise for the benefit of, and at the disposal of the purchaser. Constructive delivery is also called attornment.
-
-
-9. Status:
-* This is a target variable tell about the lead category of customer.[high potential, low potential]
-
-
 ### DATA SUMMARY :-
 * In this data all types of datatype is available.
 * In this data some feature are unique so we can not perform any analysis on this feature.
