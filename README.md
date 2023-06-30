@@ -62,7 +62,9 @@ Bank GoodCredit wants to predict cred score for current credit card customers. T
 **TARGET COLUMN ==Bad_label :-**
   * 0 Represent--> Customer has Good credit history.
   * 1 Represent--> Customer has Bad credit history.
-   ![image](https://github.com/GaneshAhire30/Bank_GoodCredit-Client-Project/assets/114847888/dc7c6c2b-5795-4bee-8d28-88425466ff2e)
+
+ ![image](https://github.com/GaneshAhire30/Bank_GoodCredit-Client-Project/assets/114847888/dc7c6c2b-5795-4bee-8d28-88425466ff2e)
+  
   * In this plot we are clearly seen the 90% Customer has Good credit and 10% customer are did not do has Good credit.
   * In this data we Not do any domain analysis because data is contain private information of customer details of Bank.
 
